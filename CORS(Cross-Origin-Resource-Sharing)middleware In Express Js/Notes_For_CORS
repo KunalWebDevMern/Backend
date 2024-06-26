@@ -1,0 +1,4 @@
+Browser mein ek security feature hota hai , jiske tahat aap  kisi aur web domain  ka data nhi manga skte  ya show nhi kr skte hain and Browser isse apko rokta hai , ab agar aap chaahte hai ki Browser allow kare data ko laane ke liye , to fir apko uss website ke server ke through CORSE enable krna hoga.
+
+
+agar app maan lo ki aap sheriyans.com pe ho toh aap kisi aur domain sei ispe data ni la skte jaise ki abcd.com ek domain hai jisme data hai ya koi website and ek defg.com ek domain hai jisko abc.com sei data magna hai toh uss case mei wo ni mangwa paeiga bec dono different domain hai untill unless humlog CORSE enable karein.
