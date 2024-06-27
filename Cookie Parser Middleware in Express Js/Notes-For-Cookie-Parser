@@ -1,0 +1,5 @@
+kabhi aap apne server sei ya kisi bhi route sei , user kisi route pe jaye toh apko browser pei kuch apko save krna hai ,
+For example kisi route pe jane sei , server sei browser pe kuch apko kuch save krna hai jaise ki ho skta apko user ko ban krna ho toh uske liye app cookie ka istmal krte ho .
+
+cookie kya hota hai : cookie hota data jo hum browser pe save kr skte hain , 
+data save krne ke liye apko package ni chaiye lekin apko usei read krne ke liye apko package chaiye hoga 
